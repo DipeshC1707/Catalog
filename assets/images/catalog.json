@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 14 Pro Max",
+            "desc": "Maximize The ProactiveNess",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/610pghkO81L._SX522_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Vivo X90 Pro",
+            "desc": "Xtreme Imagination",
+            "price": 499,
+            "color": "#00ac51",
+            "image": "https://m.media-amazon.com/images/I/71Mc1FdLrWL._SY606_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Apple 2023 MacBook Pro",
+            "desc": "M2 Pro chip with 12‑core CPU and 19‑core GPU",
+            "price": 899,
+            "color": "#e0bfae",
+            "image": "https://m.media-amazon.com/images/I/618M+ksuptL._SX522_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "OnePlus 11R 5G",
+            "desc": "Overall Beast",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://m.media-amazon.com/images/I/71qjUzUt+ML._SX569_.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Nothing Phone (2) 5G",
+            "desc": "There Something More In Nothing",
+            "price": 500,
+            "color": "#e3e4e9",
+            "image": "https://m.media-amazon.com/images/I/713rQyFyeXL._SX569_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro 2022",
+            "desc": "Supercharged By M2",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://m.media-amazon.com/images/I/81gC7frRJyL._SX522_.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Samsung Galaxy Z Fold5 5G",
+            "desc": "Lightes,More Compact",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://m.media-amazon.com/images/I/31Eu0-VOpfL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S22 Ultra",
+            "desc": "Samsung Galaxy S22 Ultra",
+            "price": 1099,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/I/41kyuER2HjL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 9,
+            "name": "iPhone 14 Pro",
+            "desc": "Pro.Beyond.",
+            "price": 899,
+            "color": "#f73984",
+            "image": "https://m.media-amazon.com/images/I/61HHS0HrjpL._SX522_.jpg"
+        }
+    ]
+}
